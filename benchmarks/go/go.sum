@@ -2,3 +2,5 @@ github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144 h1:h33p+sKyi5u2D
 github.com/go-ruby-time/time v0.0.0-20260629145843-c41ecfe3e144/go.mod h1:ySdzVsApzpx+/W/h9++Lr83xb/0y3I5apspJdonKT1Y=
 github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86 h1:QulM5rupuMg1atityanJ+ArxHH0Lh1ofEhwaeyqydIc=
 github.com/go-ruby-time/time v0.0.0-20260717074921-2d91cce39b86/go.mod h1:ySdzVsApzpx+/W/h9++Lr83xb/0y3I5apspJdonKT1Y=
+github.com/go-ruby-time/time v0.0.0-20261010120152-dd53f090987f h1:nuPcRxoRZtyf5XqXWlrcu0zaa4kLC8Ce0tsMwqLcjho=
+github.com/go-ruby-time/time v0.0.0-20261010120152-dd53f090987f/go.mod h1:nNpiEYA23MQ09jQPoe35RMer0SnxYJTNPsEIeI4asZA=
